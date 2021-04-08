@@ -1,6 +1,3 @@
-Test assignment for the iOS Developer position.
-
-Reviews app
 
 1) Make a small app that has our review feed.
 2) Add the possibility to filter by number of stars.
